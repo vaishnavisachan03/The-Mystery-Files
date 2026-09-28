@@ -20,7 +20,7 @@ In Case, a sealed Calculus exam paper goes missing from a faculty office. The pl
 
 ## Requirements
 
-* Python 3.x
+* Python 3.14
 ## Project Structure
 
 text
